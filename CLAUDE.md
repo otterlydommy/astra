@@ -17,16 +17,16 @@
 
 > ⚙ **Modell:** Aktuell `claude-opus-4-8` (in `.claude\settings.json`). **Wenn die Shader-Analyse startet, auf `claude-fable-5[1m]` umstellen** — Fable ist für die Shader-Arbeit reserviert, wird solange aber nicht verbraucht.
 
-*Wie Dominik generell arbeitet, steht in seinem Profil — lokal automatisch geladen, für Cloud-Sitzungen als `.claude\Person.md` im Repo. Bei Widerspruch gewinnt **diese** Datei.*
+*Wie Dommy generell arbeitet, steht in seinem Profil — lokal automatisch geladen, für Cloud-Sitzungen als `.claude\Person.md` im Repo. Bei Widerspruch gewinnt **diese** Datei.*
 
 ---
 
 ## ⚠ Offene Altlast aus dem Nova-Klon
 
-Astra wurde ursprünglich als Kopie von Nova angelegt. Die **strukturellen** Dateien sind bereinigt (2026-07-22), zwei **inhaltliche** nicht — denn deren Inhalt ist Dominiks eigener Auftragstext, den Claude nicht erfinden darf:
+Astra wurde ursprünglich als Kopie von Nova angelegt. Die **strukturellen** Dateien sind bereinigt (2026-07-22), zwei **inhaltliche** nicht — denn deren Inhalt ist Dommys eigener Auftragstext, den Claude nicht erfinden darf:
 
-- **`.claude\7 Phasen Plan.md`** — **eine** Stelle (Abschnitt „Wichtige Einschränkung") nennt noch **Wuthering Waves**. Der Text ist Dominiks Auftragswortlaut und wurde deshalb **nicht** geändert; die Stelle ist mit einer Rückfrage als Kommentar markiert. Der Rest des Plans ist inhaltlich in Ordnung.
-- **`.claude\01_Project_Vision.md`** — der Ziel-Look („Messlatte") ist jetzt ausdrücklich `[OFFEN]`. Dort stand ein Nova-Zielbild samt Verweis auf eine nicht existierende Datei; beides entfernt statt sinngemäß übertragen. **Welche Arcane-Szene die Messlatte ist, entscheidet Dominik.** Mehrere Abschnitte sind zudem noch leere Gerüste (Teilziele, Nicht-Ziele, offene Punkte).
+- **`.claude\7 Phasen Plan.md`** — **eine** Stelle (Abschnitt „Wichtige Einschränkung") nennt noch **Wuthering Waves**. Der Text ist Dommys Auftragswortlaut und wurde deshalb **nicht** geändert; die Stelle ist mit einer Rückfrage als Kommentar markiert. Der Rest des Plans ist inhaltlich in Ordnung.
+- **`.claude\01_Project_Vision.md`** — der Ziel-Look („Messlatte") ist jetzt ausdrücklich `[OFFEN]`. Dort stand ein Nova-Zielbild samt Verweis auf eine nicht existierende Datei; beides entfernt statt sinngemäß übertragen. **Welche Arcane-Szene die Messlatte ist, entscheidet Dommy.** Mehrere Abschnitte sind zudem noch leere Gerüste (Teilziele, Nicht-Ziele, offene Punkte).
 
 **Vor dem Start der Analyse klären.** Bis dahin gilt: Ziel-Look und die genaue Fassung der Einschränkung sind offen — nicht raten.
 

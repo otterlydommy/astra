@@ -17,7 +17,7 @@ Aufgabe (falls hier nichts steht: die zuletzt besprochene große Aufgabe): $ARGU
    - In der Etappen-Liste die Etappe als „fertig" mit Datum und Uhrzeit markieren und den nächsten Schritt notieren.
    - **Ergebnis verifizieren, bevor die nächste Etappe beginnt** — messen statt annehmen, Werte setzen und rücklesen in getrennten Calls.
 
-4. **Nur nach Freigabe umsetzen:** Betrifft eine Etappe Szenen- oder Node-Änderungen (nicht nur Lesen, Messen, Speichern), gilt das normale Rollenmodell — Dominik gibt frei. `/etappen` ändert das Freigabe-Prinzip nicht, es sichert nur den Fortschritt.
+4. **Nur nach Freigabe umsetzen:** Betrifft eine Etappe Szenen- oder Node-Änderungen (nicht nur Lesen, Messen, Speichern), gilt das normale Rollenmodell — Dommy gibt frei. `/etappen` ändert das Freigabe-Prinzip nicht, es sichert nur den Fortschritt.
 
 5. **Bei Abbruch:** Der nächste Chat setzt mit `/fortsetzen` an der letzten als „fertig" markierten Etappe an.
 

@@ -13,7 +13,7 @@ Stelle den Arbeitsstand wieder her und mach dort weiter, wo zuletzt gesichert wu
 3. **Live gegen Doku abgleichen:** den in Blender gemessenen Ist-Zustand mit dem letzten dokumentierten Soll vergleichen. Drei Fälle:
    - **Deckungsgleich** — sauberer Wiedereinstieg, mit dem nächsten markierten Schritt fortfahren.
    - **Blender ist weiter als die Doku** (Etappe umgesetzt, aber nicht dokumentiert) — fehlende Doku nachtragen, dann weiter.
-   - **Blender ist hinter der Doku / Halbstand** (Etappe brach mitten im Aufbau ab) — den unfertigen Teil benennen, Dominik entscheiden lassen, ob berichtigt oder neu ausgeführt wird, erst dann weiter.
+   - **Blender ist hinter der Doku / Halbstand** (Etappe brach mitten im Aufbau ab) — den unfertigen Teil benennen, Dommy entscheiden lassen, ob berichtigt oder neu ausgeführt wird, erst dann weiter.
 
 4. **Falls der Chatverlauf teilweise vorhanden ist:** offene Zusagen und den zuletzt gelieferten Baustein daraus rekonstruieren. Es gilt trotzdem der **gemessene Live-Zustand** aus Schritt 3 als Wahrheit.
 

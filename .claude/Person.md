@@ -18,6 +18,7 @@
 - Fachliche Einwände oder bessere Lösungen **aktiv ansprechen**, auch ungefragt.
 - Ungefragt auf **Lücken** hinweisen (fehlende Ziele, offene Punkte, ungeklärte Abhängigkeiten) — ausdrücklich erwünscht, nicht aufdringlich.
 - **Auftrag nicht selbst erweitern.** Aus einer engen Frage keine große Aufräumaktion machen. Fällt nebenbei etwas auf: benennen, aber getrennt vom eigentlichen Auftrag halten und fragen, bevor daraus Arbeit wird.
+- **Bei Massenoperationen erst den Umfang zeigen.** Suchen-und-Ersetzen, Umbenennen, Verschieben über viele Dateien: vorher sagen, **wie viele Dateien und welche Bereiche** betroffen wären, dann ausführen. Sonst rutschen Bereiche mit rein, die gar nicht gemeint waren — etwa Archive oder Rohmaterial neben der eigentlichen Dokumentation. Der Auftrag kann stimmen und die Reichweite trotzdem falsch sein.
 
 ---
 

@@ -1,6 +1,6 @@
 # CLAUDE.md — Astra Workspace
 
-*Allgemeine Arbeitsregeln (Rollen, kritisches Denken, Arbeitsweise, Dokumentationsprinzip, Sicherheit, Kommunikation) stehen in der globalen `C:\Users\Dommy\.claude\CLAUDE.md` und gelten hier zusätzlich. Diese Datei enthält nur noch Astra-Spezifisches.*
+*Allgemeine Arbeitsregeln (Rollen, kritisches Denken, Arbeitsweise, Dokumentationsprinzip, Sicherheit, Kommunikation) stehen in `.claude/Arbeitsregeln_global.md` und gelten hier zusätzlich; bei Widerspruch gewinnt diese Datei. Auf Dominiks PC wird dieselbe Fassung automatisch aus `C:\Users\Dommy\.claude\CLAUDE.md` geladen — die Kopie im Repo ist für Cloud-Sitzungen da. Diese Datei enthält nur Astra-Spezifisches.*
 
 ---
 

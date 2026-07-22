@@ -1,17 +1,19 @@
-> ## ⚠ Mitgeführte Kopie — hier nicht bearbeiten
+> ## ⛔ NUR in Cloud-Sitzungen lesen — sonst Geldverschwendung
 >
-> Diese Datei ist eine **wortgleiche Kopie** von `C:\Users\Dommy\.claude\CLAUDE.md`.
-> Sie liegt im Repo, damit die Grundregeln auch in **Cloud-Sitzungen** (`claude.ai/code`)
-> gelten, die keinen Zugriff auf Dominiks lokale Dateien haben.
+> **Läuft diese Sitzung auf Dominiks PC, ist dieser Inhalt bereits automatisch geladen**
+> (aus `C:\Users\Dommy\.claude\CLAUDE.md`). Diese Datei dann **nicht öffnen** — sie ist
+> wortgleich und würde denselben Inhalt ein zweites Mal in den Kontext holen.
 >
-> **Änderungen immer am Original vornehmen**, danach die Kopien in allen drei Repos
-> (`soc`, `nova`, `astra`) neu abgleichen. Wird hier direkt editiert, läuft es auseinander.
+> **Nur lesen, wenn** die allgemeinen Arbeitsregeln nicht ohnehin schon vorliegen — also
+> in Cloud-Sitzungen über `claude.ai/code`, die nur das Repo sehen.
 >
-> **In Cloud-Sitzungen gilt außerdem:** Abschnitt 1 nennt lokale Windows-Pfade — dort ist
-> der Arbeitsbereich stattdessen das geklonte Repo. Abschnitt 6 (Google Drive) und
-> Abschnitt 10 (parallel offene Dateien in VS Code) betreffen nur den lokalen Rechner.
-> Und **kein MCP verfügbar**: Blender lässt sich in der Cloud nicht bedienen, dort ist nur
-> Arbeit an der Dokumentation möglich.
+> **Pflege:** wortgleiche Kopie des Originals. Änderungen immer dort vornehmen, danach die
+> Kopien in allen drei Repos (`soc`, `nova`, `astra`) neu abgleichen.
+>
+> **In Cloud-Sitzungen gilt zusätzlich:** Abschnitt 1 nennt lokale Windows-Pfade — dort ist
+> der Arbeitsbereich stattdessen das geklonte Repo. Der Google-Drive-Teil und Abschnitt 10
+> (parallel offene Dateien in VS Code) betreffen nur den lokalen Rechner. Und **kein MCP
+> verfügbar**: Blender lässt sich in der Cloud nicht bedienen, dort geht nur Doku-Arbeit.
 
 ---
 
@@ -163,34 +165,7 @@ Die `.git`-Verzeichnisse liegen in Google-Drive-Ordnern und werden mitsynchronis
 
 ## 9. Dominiks Werkzeuge
 
-*Bestandsliste, keine Arbeitsanweisung. Zweck: passende Vorschläge machen zu können („das würden wir in X machen") und nichts vorzuschlagen, was er gar nicht hat.*
-
-*Stand der MCP-Recherche: 2026-07-22.*
-
-**Dominik bevorzugt grundsätzlich offizielle MCP-Server** (Herstellerprojekte) gegenüber Community-Servern. Bei jeder Empfehlung dazusagen, welche Kategorie es ist.
-
-| Werkzeug | Wofür | Offizieller MCP? | Eingerichtet? |
-|---|---|---|---|
-| **Blender** | 3D, Shader, Rendering (Nova, Astra, Comic-Panels) | **ja** — Blender Foundation, `projects.blender.org/lab/blender_mcp` | **ja, in Benutzung** |
-| Fusion 360 | CAD / parametrische Modellierung | **ja** — Autodesk, plus separater „Fusion Data MCP" für Projektstruktur | nein |
-| InDesign | Layout, **Kandidat für Comic-Panels** | **nein** — nur Community (`adobe-mcp`) | nein |
-| Photoshop | Bildbearbeitung | **nein** — nur Community (`adobe-mcp`) | nein |
-| After Effects | Motion Graphics, Compositing | **nein** — nur Community | nein |
-| Premiere Pro | Videoschnitt | **nein** — nur Community (170+ Werkzeuge) | nein |
-| Substance Painter | Texturierung | **nein** — Community: `SubstacePainterMCP` (frei) oder „MCP Pro for Painter" (kostenpflichtig). Auch für Substance **Designer** vorhanden | nein |
-| Procreate | Zeichnen unterwegs, **Texturen** (iPad) | entfällt — **nicht nötig**: Export als PNG nach `01_Input\`, Claude kann Bilder direkt ansehen | Übergabe per Datei |
-| Google Docs / Tabellen | Texte, Listen | Connector vorhanden | **für den Comic bewusst nicht genutzt** — Manuskript liegt als `.md`, weil Claude damit besser arbeitet |
-| VS Code | Dominiks Editor | *kein MCP nötig* — Claude Code läuft direkt darin | in Benutzung |
-
-**Adobe — wichtige Fallstrick-Warnung:** Es gibt zwar eine **offizielle** Adobe-Anbindung für Claude („Adobe for Creativity"), die deckt aber nur **Adobe Express** ab (das vereinfachte Consumer-Werkzeug: zuschneiden, Format ändern, Vorlagen, einfache Filter). Die Profi-Programme **Photoshop, InDesign, Premiere und After Effects steuert sie ausdrücklich nicht.** Wer „Adobe hat jetzt offiziell MCP" liest und daraus schließt, Claude könne InDesign bedienen, liegt falsch. Dafür gibt es **nur Community-Server**.
-
-**Wichtig:** „MCP verfügbar" heißt **nicht** „ist verbunden". Eingerichtet ist bisher nur Blender. Bei allem anderen kann Claude beraten und planen, aber **nicht selbst bedienen** — das nicht verwechseln und Dominik nichts versprechen, was gerade nicht geht.
-
-**Absprache (2026-07-22):** Dominik richtet einen Server ein, **wenn Bedarf entsteht** — nicht auf Vorrat. Fällt Claude auf, dass eine Aufgabe mit einem MCP deutlich besser liefe, **aktiv Bescheid sagen**; umgekehrt meldet Dominik neue Werkzeuge. Diese Liste dann aktuell halten.
-
-**Ein MCP-Server gehört zu dem Projekt, in dem das Werkzeug offen ist** — projektweise verbinden (`.mcp.json` im Projektordner), nicht global. Ein Schreibprojekt braucht keine Blender-Werkzeuge.
-
-**Neue Werkzeug-Arbeitsregeln** („wie arbeiten wir in X") kommen erst in eine eigene Datei, wenn das Werkzeug wirklich zusammen mit Claude benutzt wird — nicht auf Vorrat.
+Welche Programme Dominik nutzt, wo es offizielle MCP-Server gibt und was davon eingerichtet ist, steht in `~\.claude\werkzeuge.md`. **Dort nachsehen, bevor ein Werkzeug empfohlen wird** — und nichts versprechen, was mangels Anbindung gar nicht geht. Aktuell ist nur **Blender** tatsaechlich verbunden.
 
 ---
 

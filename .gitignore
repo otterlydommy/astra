@@ -1,0 +1,15 @@
+# Referenzmaterial (Videos, Bilder) - gross und binaer, kein sinnvoller Diff.
+# Bereits ueber Google Drive gesichert.
+01_Input/
+
+# Blender-Arbeitsdateien
+*.blend
+*.blend1
+*.blend2
+
+# Exporte und Renderings
+03_export/
+
+# Windows-Verknuepfungen und Google-Drive-Platzhalter
+*.lnk
+*.gdoc

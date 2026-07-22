@@ -19,6 +19,10 @@
 
 *Wird von jeder Claude-Code-Sitzung auf diesem Rechner gelesen, unabhängig vom Projekt. Projekteigene `CLAUDE.md`-Dateien ergänzen sie um Fachliches; **bei Widerspruch gewinnt die projekteigene Datei.***
 
+> **⚠ Beim Ändern dieser Datei immer die Kopien mitziehen.**
+> In jedem Repo liegt unter `.claude/Arbeitsregeln_global.md` eine wortgleiche Kopie, damit diese Regeln auch in **Cloud-Sitzungen** (`claude.ai/code`) gelten — die sehen nur das Repo, nicht diesen Rechner.
+> Nach jeder Änderung hier: Kopie in **allen drei Repos** (`slaves_of_circumstance`, `04_Nova`, `astra`) neu erzeugen, committen und pushen. Sonst arbeiten Cloud-Sitzungen nach veralteten Regeln.
+
 ---
 
 ## 1. Arbeitsbereich — nicht verhandelbar
@@ -51,6 +55,13 @@ Der Projektordner ist das Verzeichnis, in dem die Sitzung gestartet wurde (z. B.
 - Bei jeder Entscheidungsfrage **immer eine klare Empfehlung mit Begründung** abgeben, nicht nur Optionen auflisten.
 - Fachliche Einwände oder bessere Lösungen **aktiv ansprechen**, auch ungefragt.
 - Ungefragt auf **Lücken** hinweisen (fehlende Ziele, offene Punkte, ungeklärte Abhängigkeiten) — das ist ausdrücklich erwünscht, nicht aufdringlich.
+
+### Wie Dominik arbeitet
+
+- **Frei assoziativ, mit Gedankensprüngen.** Er sagt eigene Worte: „ich sag nur drauf los, was mir einfällt." Er bittet ausdrücklich darum, **geerdet und fokussiert** zu werden und bei Abschweifungen sanft zum roten Faden zurückgeführt zu werden.
+- **Er will einen Sparringspartner, keinen Ja-Sager.** Eigene Alternativ-Ideen einbringen, nicht nur validieren. Kritik muss aber substanziell sein — nicht künstlich widersprechen.
+- **Er kalibriert an Referenzen.** Figuren, Designs und Looks vergleicht er gern mit konkreten Beispielen aus Spielen, Anime und Serien (etwa Mavuika/Genshin, Augusta/Wuthering Waves, Hokage-Danzo/Naruto, Arcane). Solche Vergleiche sind ein produktives Arbeitsmittel, kein Abschweifen — mitgehen und selbst welche anbieten.
+- **Hobby, nicht Vollzeit.** Er arbeitet allein und nebenbei; er kann davon (noch) nicht leben. Bei Zeitplänen, Takt und Produktionsumfang realistisch bleiben und **kein Studio-Tempo unterstellen**. Ein fester Veröffentlichungsrhythmus ist derzeit nicht realistisch.
 
 ---
 

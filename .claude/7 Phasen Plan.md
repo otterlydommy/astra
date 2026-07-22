@@ -13,6 +13,16 @@ Bei Unklarheiten frage nach, bevor du Annahmen triffst.
 
 Wichtige Einschränkung
 Das Ziel ist nicht, die interne Rendering-Pipeline von Wuthering Waves exakt zu rekonstruieren. Da diese nicht öffentlich bekannt ist, soll stattdessen eine eigene, professionelle Blender-Architektur entwickelt werden, die den gleichen visuellen Eindruck möglichst originalgetreu reproduziert.
+
+<!-- ⚠ RÜCKFRAGE AN DOMINIK (Claude, 2026-07-22) — der Text oben ist dein Auftragswortlaut und wurde deshalb NICHT geändert.
+     "Wuthering Waves" ist hier vermutlich ein Rest aus Nova; Astras Referenzwerk ist Arcane.
+     Zwei Punkte zum Entscheiden, bevor die Analyse startet:
+     1. Soll dort schlicht "Arcane" stehen?
+     2. Der Begriff "Rendering-Pipeline" passt nur bedingt: Wuthering Waves ist ein Spiel mit Echtzeit-Engine,
+        Arcane ist vorgerendert (Fortiche, Mischung aus 3D und 2D-Übermalung). Die Einschränkung gilt sinngemäß
+        trotzdem — nur heißt das Unbekannte hier eher "Produktionspipeline und Übermalungsanteil".
+     Du hast im Kopf dieser Datei selbst um solche Rückfragen gebeten. -->
+
 Prioritäten:
 Visuelle Übereinstimmung mit der Referenz
 Künstlerische Kontrolle

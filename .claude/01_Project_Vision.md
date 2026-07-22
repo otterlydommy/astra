@@ -16,7 +16,7 @@ Das Ziel ist ausdrücklich **nicht** die Erstellung eines einzelnen Bildes, sond
 
 
 **Ziel-Look vs. Kalibrierbasis (wichtig, nicht verwechseln):**
-- **Ziel-Look (Messlatte):** „Dawn Arrives"/Cartethyia — analysiert in `07_Reference_Analysis.md` §6–§8. Die Story-Cinematic fährt den gemalten Look am stärksten aus (weiche Ramps, malerische Kanten, kräftiges Compositing).
+- **Ziel-Look (Messlatte):** `[OFFEN]` — **noch nicht festgelegt.** Hier stand bis 2026-07-22 „Dawn Arrives/Cartethyia" samt Verweis auf `07_Reference_Analysis.md`. Beides stammt aus **Nova** (Wuthering Waves), war also nie Astras Zielbild, und die genannte Datei existiert hier nicht. Entfernt statt sinngemäß übertragen — welche **Arcane**-Szene die Messlatte ist, entscheidet Dominik vor dem Start der Analyse.
 
 ### 2.2 Teilziele
 
